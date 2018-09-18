@@ -1,0 +1,9 @@
+[submodule "esp8266-hub"]
+	path = esp8266-hub
+	url = git@gitlab.com:real-world-esp8266/esp8266-hub.git
+[submodule "esp8266-soil-moisture"]
+	path = esp8266-soil-moisture
+	url = git@gitlab.com:real-world-esp8266/esp8266-soil-moisture.git
+[submodule "esp8266-temperature"]
+	path = esp8266-temperature
+	url = git@gitlab.com:real-world-esp8266/esp8266-temperature.git
